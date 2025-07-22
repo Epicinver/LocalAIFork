@@ -43,7 +43,7 @@ namespace LocalChatGPT
 
         private void StartOllama()
         {
-            var uri = new Uri("http://localhost:11434");
+            var uri = new Uri("http://localhost:11434"); //Double check does ollama use the same URL.
             ollama = new OllamaApiClient(uri)
             { 
                 SelectedModel = "llama3:latest" //Model name goes here.
