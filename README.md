@@ -1,3 +1,15 @@
+
+THIS IS A FORK
+CHECK OUT THE ORIGINAL PLEASE
+
+
+
+=-=
+=-=
+=-=
+=-=
+
+
 # Local AI
 
 Code from this youtube video: https://youtu.be/LD6x8EkJbLw
